@@ -4,7 +4,7 @@ This licence is provided free of charge and the Software on an as-is basis. No w
 
 USE OF THIS SOFTWARE IS AT YOUR OWN RISK.
 
-You are permitted by this licence to use the Software for communication with the Quarklink (TM) security platform in accordance with the [licence/EULA] and documentation [for evaluation / non-commercial / private purposes]] ONLY.
+You are permitted by this licence to use the Software in conjunction with the QuarkLink SaaS platform (and in accordance with the platform licence and documentation) ONLY.
 
 You MUST NOT (and must not permit any third party to) copy, adapt, reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the Software in whole or in part.
 
